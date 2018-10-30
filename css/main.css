@@ -24,8 +24,8 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.1em;
-    line-height: 1em;
+    font-size: 1em;
+    line-height: 0.9em;
     color: #333;
 }
 footer {
@@ -48,5 +48,6 @@ ul.posts li {
 }
 
 .blurb {
+    float: right;
     width: 70%
 }
