@@ -44,5 +44,9 @@ ul.posts li {
 
 #sidebar {
     float: left;
-    width: 250 px;
+    width: 30%;
+}
+
+.blurb {
+    width: 70%
 }
